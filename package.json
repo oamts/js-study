@@ -1,0 +1,24 @@
+{
+  "name": "js-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oamts/js-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/oamts/js-study/issues"
+  },
+  "homepage": "https://github.com/oamts/js-study#readme",
+  "devDependencies": {
+    "vitest": "^4.0.16"
+  }
+}
